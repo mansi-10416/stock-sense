@@ -1,4 +1,4 @@
-import streamlit as st
+importt as st
 
 st.set_page_config(
     page_title="Stock Sense",
